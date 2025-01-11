@@ -37,4 +37,4 @@ Using Chrome DevTools with the bottom-up debugging methodology allows developers
 ## Document Link
 
 For more details, refer to the complete document:  
-[Debugging Methodology: Bottom-Up Approach by Stephanie Vergil](https://github.com/StephVergil/Debugging-Methodology/blob/main/Debugging%20Methodology%20Module%2013.docx)
+[Debugging Methodology: Bottom-Up Approach by Stephanie Vergil](https://github.com/StephVergil/Debugging-Methodologies-Bottom-Up-Approach/blob/main/Debugging%20Methodology%20Module%2013.docx)
